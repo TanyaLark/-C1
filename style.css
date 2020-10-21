@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    background-image: url('./img/background_calculator.png'); 
+    background-size: cover;
+    background-color:lightblue;
+    font-family: 'Roboto Slab', serif;
+}
+.header_calculator{
+    text-align: center;
+    color: darkblue;
+    margin-bottom: 40px;
+}
+.wrap_calculator{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.my_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
